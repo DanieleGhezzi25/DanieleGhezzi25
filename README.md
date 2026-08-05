@@ -5,7 +5,7 @@ I am a **Data Physicist**, a new professional and academic figure at the edge be
 ## 🎓 About Me
 * I am currently pursuing a Master of Science in Physics of Data at the University of Padova.
 * I hold a Bachelor of Science in Physics from the University of Milano-Bicocca (110/110 cum laude).
-* My academic focus is about the intersection of statistical physics and neural networks, using the tools from theoretical physics to understand how artificial intelligence emerges.
+* My academic focus is about the intersection of statistical physics and deep learning, using the tools from theoretical physics to understand how artificial intelligence emerges.
 * In Spring 2027, I will be joining the École Normale Supérieure in Paris for an internship and Master's thesis focusing on analytical calculations and numerical simulations of energy consumption in neural networks using statistical physics methods.
 * Outside the lab, I am passionate about music: I love playing the guitar and doing gigs as soon as I can!
 
