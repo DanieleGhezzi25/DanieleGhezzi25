@@ -11,7 +11,7 @@ I am a **Data Physicist**, a new professional and academic figure at the edge be
 
 ## 🚀 Projects here in Github
 * I love to share my work and projects, and here you can find them all!
-* See what I pinned to dive into my favourite projects.
+* See what I pinned to dive into my favourite works.
 
 ## 📫 Get in Touch
 * **Email:** danieleghezzi25@gmail.com
